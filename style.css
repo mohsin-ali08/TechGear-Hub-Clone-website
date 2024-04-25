@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+}
+
+
+header {
+    background-image: linear-gradient(100deg, #c4b6fd, #93acfc);
+}
+.navbar-brand,
+.text-primary {
+    color: #0a58ca !important;
+}
+.btn-primary {
+    background-color: #0a58ca !important;
+    border: none;
+    border-radius: 5px;
+}
+.btn-primary:hover {
+    background-color: #257dfd !important;
+    
+}
+.nav-link:hover {
+    color: #0a58ca !important;
+}
+p {
+    font-size: 18px;
+
+}
+.blue-bg {
+    background-color: #0a58ca;
+    color: #fff ;
+}
+.text-primary {
+    color: #257dfd;
+}
+.icons {
+    height: 32px;
+    width: 32px;
+    margin-bottom: 16px;
+    color: #0a58ca;
+    padding: 6px;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+    border: none !important;
+    background-color: #0a58ca !important;
+    color: #fff !important;
+}
+.nav-tabs {
+    border: none !important;
+}
